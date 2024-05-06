@@ -50,7 +50,7 @@ The attributes of this data set include:
 
 Output
 
-Based on the analysis below, here are some hypotheses about drivers who accepted the bar coupons:
+Based on the analysis, here are some hypotheses about drivers who accepted the bar coupons:
 
 1. Overall Acceptance Rate: The proportion of bar coupons accepted is approximately 41%. This indicates that a significant portion of the distributed bar coupons were accepted.
 
@@ -69,7 +69,7 @@ Based on the analysis below, here are some hypotheses about drivers who accepted
 Overall, these findings suggest that various factors such as age, frequency of bar visits, passenger demographics, occupation, marital status, and income level may influence the likelihood of drivers accepting bar coupons./
 
 
-Based on the observations below, here are some hypotheses regarding drivers who accepted the CoffeeHouse coupons:
+Based on the analysis, here are some hypotheses regarding drivers who accepted the CoffeeHouse coupons:
 
 1. Overall Acceptance Rate: Approximately 49.9% of the CoffeeHouse coupons distributed were accepted, indicating a moderate level of acceptance among drivers.
 
