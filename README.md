@@ -1,5 +1,6 @@
 Analyzing Coupon Acceptance Trends among Drivers
 
+Path to python notebook :  https://github.com/gireeshbabum/coupon-acceptance-analysis/blob/main/coupon-acceptance-analysis/notebooks/couponcode.ipynb
 
 Context
 
@@ -66,7 +67,7 @@ Based on the analysis, here are some hypotheses about drivers who accepted the b
 
 7. Income and Restaurant Visits: Drivers who visit cheap restaurants more than 4 times a month and have an income less than 50K displayed a higher acceptance rate, implying that lower-income individuals who frequent cheap restaurants may be more receptive to bar coupons.
 
-Overall, these findings suggest that various factors such as age, frequency of bar visits, passenger demographics, occupation, marital status, and income level may influence the likelihood of drivers accepting bar coupons./
+Overall, these findings suggest that various factors such as age, frequency of bar visits, passenger demographics, occupation, marital status, and income level may influence the likelihood of drivers accepting bar coupons.
 
 
 Based on the analysis, here are some hypotheses regarding drivers who accepted the CoffeeHouse coupons:
